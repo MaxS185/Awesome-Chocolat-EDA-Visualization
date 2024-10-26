@@ -39,7 +39,7 @@ The sales trends over time provide insights into market dynamics and can help in
 ![2 sales_products](https://github.com/user-attachments/assets/6c75a1b2-5886-43a6-b937-fa63d2f22ca5)
 
 
-**Metrics and Tooltip**  
+**Dimensions Switcher and Tooltip**  
 ![3 metriscs_switcher_tooltip](https://github.com/user-attachments/assets/aab4b061-2cd1-479a-a154-45fa67fcdd72)
 
 
