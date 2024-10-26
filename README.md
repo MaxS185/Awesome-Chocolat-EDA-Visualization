@@ -3,7 +3,7 @@ Data Visualization Master Class - final exercise
 
 ### Exploratory Data Analysis (EDA)
 ### Introduction
-This analysis represents the culmination of the Chandoo Data Analysis Master Class.  
+This analysis represents the culmination of the Data Analysis Master Class.  
 The objective was to develop DAX measures and functions, along with a time intelligence table, to effectively showcase key performance indicators (KPIs) and metrics.  
 The goal was to provide a comprehensive understanding of the sales data, highlighting critical insights and trends.
 As part of this analysis, a switcher for metrics was developed in the timeline visualization, allowing for dynamic and interactive exploration of different metrics over time. Additionally, a tooltip was created to provide detailed information on data points, enhancing the overall user experience and making the analysis more insightful and actionable.
